@@ -1,9 +1,9 @@
     <div class="container-lg px-3 my-5 markdown-body">
 
-      <h1><a href="https://anffff.github.io/rsschool-cv/">rsschool-cv</a></h1>
+      <h1><a href="https://anfff.github.io/rsschool-cv/">rsschool-cv</a></h1>
 
 
-      <h1 id="hanna-voloshyna">Hanna Voloshyna</h1>
+      <h1>Hetman Oleksii</h1>
 
 <h3 id="junior-frontend-developer">Junior Frontend Developer</h3>
 
